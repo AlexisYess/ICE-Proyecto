@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ICE.Control.AccesoADatos\ICE.Control.AccesoADatos.csproj" />
+    <ProjectReference Include="..\ICE.Control.EntidadesDeNegocio\ICE.Control.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
+
+</Project>

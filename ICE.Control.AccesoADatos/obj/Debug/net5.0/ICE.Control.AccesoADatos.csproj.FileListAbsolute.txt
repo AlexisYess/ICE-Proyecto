@@ -1,0 +1,72 @@
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.deps.json
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfo.cs
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.deps.json
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfo.cs
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CopyComplete
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.deps.json
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfo.cs
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CopyComplete
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.deps.json
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfo.cs
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CopyComplete
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.deps.json
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.AssemblyReference.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfoInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.AssemblyInfo.cs
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.csproj.CopyComplete
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ref\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.AccesoADatos\obj\Debug\net5.0\ICE.Control.AccesoADatos.pdb

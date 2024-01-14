@@ -1,0 +1,241 @@
+﻿@model IEnumerable<ICE.Control.EntidadesDeNegocio.Calificacion>
+
+@{
+    ViewData["Title"] = "Index";
+    int numPage = 1;
+    int numRegistros = 0;
+    int numRegistrosPorPage = 10;
+    int[] tops = { 10, 20, 50, 100, 500, 1000, 10000, -1 };
+    int topActual = Convert.ToInt32(ViewBag.Top);
+    List<ICE.Control.EntidadesDeNegocio.Matricula> matriculas = ViewBag.Matriculas as List<ICE.Control.EntidadesDeNegocio.Matricula>;
+}
+<h1>Buscar Calificacion</h1>
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Index">
+            <div class="row">
+
+                <div class="col-md-3">
+                    <div class="form-group">
+                        <label class="control-label">Nombre Alumno</label>
+                        <select name="idMatricula" class="form-control">
+                            <option selected value="0">SELECCIONAR</option>
+                            @foreach (var item in matriculas)
+                            {
+                                <option value="@item.Id">@item.Nombre</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">Word</label>
+                        <input type="text" class="form-control" name="Word" />
+                    </div>
+                </div>
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">Excel</label>
+                        <input type="text" class="form-control" name="Excel" />
+                    </div>
+                </div>
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">PowerPoint</label>
+                        <input type="text" class="form-control" name="PowerPoint" />
+                    </div>
+                </div>
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">Access</label>
+                        <input type="text" class="form-control" name="Access" />
+                    </div>
+                </div>
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">Publisher</label>
+                        <input type="text" class="form-control" name="Publisher" />
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-group">
+                        <label class="control-label">Corel Draw</label>
+                        <input type="text" class="form-control" name="CorelDraw" />
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="form-group">
+                        <label class="control-label">Mantemiento</label>
+                        <input type="text" class="form-control" name="Mantenimiento" />
+                    </div>
+                </div>
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">Redes</label>
+                        <input type="text" class="form-control" name="Redes" />
+                    </div>
+                </div>
+
+
+
+                <div class="col-md-1">
+                    <div class="form-group">
+                        <label class="control-label">Promedio</label>
+                        <input type="text" class="form-control" name="Promedio" />
+                    </div>
+                </div>
+            </div>
+                <div class="col-md-2">
+                    <div class="form-group">
+                        <label class="control-label">Top</label>
+                        <select name="top_aux" class="form-control">
+                            @foreach (var item in tops)
+                            {
+                                string strItem = item != -1 ? item.ToString() : "Todos";
+                                if (item != topActual)
+                                {
+                                    <option value="@item">@strItem</option>
+                                }
+                                else
+                                {
+                                    <option selected value="@item">@strItem</option>
+                                }
+                            }
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Buscar" class="btn btn-outline-primary" />
+                    <a asp-action="Create" class="btn btn-outline-primary">Crear</a>
+                </div>
+        </form>
+    </div>
+</div>
+<table class="table table-hover">
+    <thead class="badge-success">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMatricula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMatricula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Word)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Excel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PowerPoint)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Access)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Publisher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorelDraw)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photoshop)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mantenimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Redes)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Promedio)
+            </th>
+            <th colspan="3">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr data-page="@numPage">
+
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Matricula.Nombre)
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Matricula.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Word)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Excel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PowerPoint)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Access)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorelDraw)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Photoshop)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mantenimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Redes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Promedio)
+            </td>
+
+            <td class="botonestabla">
+                @Html.ActionLink("Modificar", "Edit", new { id = item.Id }, new { @class = "btn btn-outline-success" })
+            </td>
+            <td class="botonestabla">
+                @Html.ActionLink("Ver", "Details", new { id = item.Id }, new { @class = "btn btn-outline-info" })
+            </td>
+            <td class="botonestabla">
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.Id }, new { @class = "btn btn-outline-danger" })
+            </td>
+        </tr>
+            numRegistros++;
+            if (numRegistros == numRegistrosPorPage)
+            {
+                numPage++;
+                numRegistros = 0;
+            }
+        }
+        @{
+            if (numRegistros == 0)
+            {
+                numPage--;
+            }
+        }
+    </tbody>
+</table>
+@if (numPage > 1)
+{
+    <div class="row" style="overflow:auto">
+        <div class="col-md-12">
+            <ul class="pagination paginationjs" data-numpage="@numPage" data-pageactive="1">
+                <li class="page-item" data-typepage="Previous"><a class="page-link" href="#">Previous</a></li>
+                @for (var i = 1; i <= numPage; i++)
+                {
+                    <li class="page-item" data-page="@i" data-typepage="Item"><a class="page-link" href="#">@i</a></li>
+                }
+                <li class="page-item" data-typepage="Next"><a class="page-link" href="#">Next</a></li>
+            </ul>
+        </div>
+    </div>
+}

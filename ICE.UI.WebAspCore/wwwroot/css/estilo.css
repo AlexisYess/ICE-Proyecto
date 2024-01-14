@@ -1,0 +1,10 @@
+﻿.fondo
+    {
+    background-image: url(/IMG/FOND.png);
+    height: 50vh;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+    
+}

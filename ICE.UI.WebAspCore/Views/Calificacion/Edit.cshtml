@@ -1,0 +1,110 @@
+﻿@model ICE.Control.EntidadesDeNegocio.Calificacion
+
+@{
+    ViewData["Title"] = "Edit";
+    List<ICE.Control.EntidadesDeNegocio.Matricula> matriculas = ViewBag.Matriculas as List<ICE.Control.EntidadesDeNegocio.Matricula>;
+}
+
+<
+
+<h1> modificar Calificacion</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="IdMatricula" class="control-label">Nombre Alumno</label>
+                    <select asp-for="IdMatricula" class="form-control">
+                        <option selected value="">SELECCIONAR</option>
+                        @foreach (var item in matriculas)
+                        {
+                            if (Model.IdMatricula == item.Id)
+                            {
+                                <option selected value="@item.Id">@item.Nombre</option>
+                            }
+                            else
+                            {
+                                <option value="@item.Id">@item.Nombre</option>
+                            }
+                        }
+                    </select>
+                    <span asp-validation-for="IdMatricula" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Word" class="control-label"></label>
+                <input asp-for="Word" class="form-control" />
+                <span asp-validation-for="Word" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Excel" class="control-label"></label>
+                <input asp-for="Excel" class="form-control" />
+                <span asp-validation-for="Excel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PowerPoint" class="control-label"></label>
+                <input asp-for="PowerPoint" class="form-control" />
+                <span asp-validation-for="PowerPoint" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Access" class="control-label"></label>
+                <input asp-for="Access" class="form-control" />
+                <span asp-validation-for="Access" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Publisher" class="control-label"></label>
+                <input asp-for="Publisher" class="form-control" />
+                <span asp-validation-for="Publisher" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CorelDraw" class="control-label"></label>
+                <input asp-for="CorelDraw" class="form-control" />
+                <span asp-validation-for="CorelDraw" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photoshop" class="control-label"></label>
+                <input asp-for="Photoshop" class="form-control" />
+                <span asp-validation-for="Photoshop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Mantenimiento" class="control-label"></label>
+                <input asp-for="Mantenimiento" class="form-control" />
+                <span asp-validation-for="Mantenimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Redes" class="control-label"></label>
+                <input asp-for="Redes" class="form-control" />
+                <span asp-validation-for="Redes" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label class="control-label">Promedio:</label>
+                    @*<input type="text" class="form-control" name="Promedio" />*@
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <input type="submit" value="Guardar" class="btn btn-outline-primary" />
+                        <a asp-action="Index" class="btn btn-outline-dark">Cancelar</a>
+                    </div>
+                    <span class="text-danger">@ViewBag.Error</span>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(function () {
+            $("form input[name],form select[name]").trigger("blur");
+        });
+    </script>
+}

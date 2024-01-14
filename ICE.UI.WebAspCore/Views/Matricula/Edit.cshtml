@@ -1,0 +1,135 @@
+﻿@model ICE.Control.EntidadesDeNegocio.Matricula
+
+@{
+    ViewData["Title"] = "Edit";
+    List<ICE.Control.EntidadesDeNegocio.Docente> docentes = ViewBag.Docentes as List<ICE.Control.EntidadesDeNegocio.Docente>;
+    List<ICE.Control.EntidadesDeNegocio.Curso> cursos = ViewBag.Cursos as List<ICE.Control.EntidadesDeNegocio.Curso>;
+    List<ICE.Control.EntidadesDeNegocio.Grupo> grupos = ViewBag.Grupos as List<ICE.Control.EntidadesDeNegocio.Grupo>;
+}
+
+<h1>Modificar Matricula</h1>
+<hr />
+<form asp-action="Edit">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="Id" class="form-control" />
+    <div class="row">
+        <div class="col-md-5">
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label">Nombres</label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <div class="form-group">
+                <label asp-for="Apellido" class="control-label">Apellidos</label>
+                <input asp-for="Apellido" class="form-control" />
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="Edad" class="control-label"></label>
+                <input asp-for="Edad" class="form-control" />
+                <span asp-validation-for="Edad" class="text-danger"></span>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="IdDocente" class="control-label"></label>
+                <select asp-for="IdDocente" class="form-control">
+                    <option selected value="">SELECCIONAR</option>
+                    @foreach (var item in docentes)
+                    {
+                        if (Model.IdDocente == item.Id)
+                        {
+                            <option selected value="@item.Id">@item.Nombre</option>
+                        }
+                        else
+                        {
+                            <option value="@item.Id">@item.Nombre</option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="IdDocente" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="IdCurso" class="control-label"></label>
+                <select asp-for="IdCurso" class="form-control">
+                    <option selected value="">SELECCIONAR</option>
+                    @foreach (var item in cursos)
+                    {
+                        if (Model.IdCurso == item.Id)
+                        {
+                            <option selected value="@item.Id">@item.Nombre</option>
+                        }
+                        else
+                        {
+                            <option value="@item.Id">@item.Nombre</option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="IdCurso" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="IdGrupo" class="control-label"></label>
+                <select asp-for="IdGrupo" class="form-control">
+                    <option selected value="">SELECCIONAR</option>
+                    @foreach (var item in grupos)
+                    {
+                        if (Model.IdGrupo == item.Id)
+                        {
+                            <option selected value="@item.Id">@item.Nombre</option>
+                        }
+                        else
+                        {
+                            <option value="@item.Id">@item.Nombre</option>
+                        }
+                    }
+                </select>
+                <span asp-validation-for="IdGrupo" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="FechaInicio" class="control-label"></label>
+                <input asp-for="FechaInicio" class="form-control" />
+                <span asp-validation-for="FechaInicio" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="form-group">
+                <label asp-for="FechaFinal" class="control-label"></label>
+                <input asp-for="FechaFinal" class="form-control" />
+                <span asp-validation-for="FechaFinal" class="text-danger"></span>
+            </div>
+        </div>
+
+
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-outline-primary" />
+                <a asp-action="Index" class="btn btn-outline-dark">Cancelar</a>
+            </div>
+            <span class="text-danger">@ViewBag.Error</span>
+        </div>
+    </div>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(function () {
+            $("form input[name],form select[name]").trigger("blur");
+        });
+    </script>
+}

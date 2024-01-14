@@ -1,0 +1,80 @@
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.deps.json
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.deps.json
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CopyComplete
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3 - copia\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.deps.json
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CopyComplete
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\alexis\Desktop\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.deps.json
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CopyComplete
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\PROECTOICE\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.deps.json
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.AccesoADatos.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\bin\Debug\net5.0\ICE.Control.EntidadesDeNegocio.pdb
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.csproj.CopyComplete
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ref\ICE.Control.LogicaDeNegocios.dll
+C:\Users\melvin velasquez\Desktop\Listo\version3.1-1\version3.1\Finalizado\PROECTOICE\ICE\ICE.Control.LogicaDeNegocios\obj\Debug\net5.0\ICE.Control.LogicaDeNegocios.pdb

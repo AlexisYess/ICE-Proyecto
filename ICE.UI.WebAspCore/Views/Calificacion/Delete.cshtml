@@ -1,0 +1,99 @@
+﻿@model ICE.Control.EntidadesDeNegocio.Calificacion
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>¿ Esta seguro que desea eliminar ?</h3>
+<div>
+    <h4>Calificacion</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Word)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Word)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Excel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Excel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PowerPoint)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PowerPoint)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Access)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Access)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Publisher)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Publisher)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CorelDraw)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CorelDraw)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CorelDraw)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Photoshop)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Photoshop)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Mantenimiento)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Mantenimiento)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Redes)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Redes)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdMatricula)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Matricula.Nombre)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Promedio)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Promedio)
+        </dd>
+
+
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Elimninar" class="btn btn-outline-danger" /> |
+        <a asp-action="Index" class="btn btn-outline-dark">Cancelar</a>
+    </form>
+</div>
